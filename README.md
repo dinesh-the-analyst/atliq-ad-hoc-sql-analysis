@@ -1,8 +1,9 @@
 # 📊 AtliQ Hardware - SQL Ad-Hoc Analysis
 
-![SQL](https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-FF6B6B?style=for-the-badge)
-![Business Intelligence](https://img.shields.io/badge/Business-Intelligence-4CAF50?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data_Analysis-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white)
+![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-4CAF50?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 > **Transforming Raw Data into Strategic Business Insights using Advanced SQL**
 
@@ -17,7 +18,6 @@
 - [Key Insights](#-key-insights)
 - [Skills Demonstrated](#-skills-demonstrated)
 - [Tools Used](#️-tools-used)
-- [How to Use](#-how-to-use)
 - [Connect](#-connect)
 
 ---
@@ -456,7 +456,7 @@ GROUP BY division, product_code, product;
 - 💰 Optimize discount strategies for key accounts in India
 - 🌏 Strengthen market presence in top-performing regions
 - 📈 Leverage seasonal trends for better inventory planning
-- 🎯 Focus marketing on top-performing products per division
+- 🎯 Reduce dependence from single channel Strengthen distributor & direct channels
 
 ---
 
@@ -472,7 +472,6 @@ GROUP BY division, product_code, product;
 - ✅ Date/Time functions (MONTH, YEAR, MONTHNAME)
 - ✅ GROUP BY with complex aggregations
 - ✅ UNION operations
-- ✅ Query optimization
 
 ### Business Analysis Skills
 - 📊 Trend Analysis - YoY growth patterns
@@ -495,6 +494,40 @@ GROUP BY division, product_code, product;
 
 ---
 
+## 🔗 Project Links & References
+
+### 📂 Project Resources
+
+- **GitHub Repository**
+  👉 [View Repository](INSERT_YOUR_GITHUB_LINK_HERE)
+
+- **Business Presentation**
+  👉 [View Presentation](INSERT_YOUR_PRESENTATION_LINK_HERE)
+
+
+---
+
+### 📚 Industry References
+
+The following external sources were used to validate business interpretation and market context:
+
+- **Flipkart Market Share – 2021**
+  👉 https://tinyurl.com/Flipkart-marketshare-2021  
+
+- **Shopsy Launch & Expansion Strategy**
+  👉 https://tinyurl.com/shopsy-launched  
+
+- **China Consumer Electronics Market Overview**
+  👉 https://tinyurl.com/China-electronics-market  
+
+- **Network & Storage Demand Growth Trends**
+  👉 https://tinyurl.com/Network-storage-demand  
+
+
+---
+
+
+
 ## 📞 Connect
 
 ### Let's Collaborate!
@@ -507,9 +540,11 @@ I'm passionate about data analytics and always open to connecting with fellow da
 - 💡 Discussion about SQL, BI, or Analytics
 - 📚 Knowledge sharing and networking
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+## 📫 Connect With Me
+
+- **LinkedIn**: www.linkedin.com/in/srdinesh-analyst
+- **Email**: dineshrio7906@gmail.com
+- **GitHub**: https://github.com/dinesh-the-analyst
 
 ---
 
@@ -520,8 +555,6 @@ If you found this project helpful, please consider:
 - 🔄 Sharing it with others
 - 💬 Providing feedback or suggestions
 
----
+<h2 align="center">❤️ Thanks for taking the time to explore this project.</h2>
 
-**© 2024 | SQL Analysis Project for AtliQ Hardware**
 
-*Developed with passion for data analytics and business intelligence*
