@@ -502,7 +502,7 @@ GROUP BY division, product_code, product;
   👉 [View Repository](INSERT_YOUR_GITHUB_LINK_HERE)
 
 - **Business Presentation**
-  👉 [View Presentation](INSERT_YOUR_PRESENTATION_LINK_HERE)
+  👉 [View Presentation](https://www.linkedin.com/posts/srdinesh-analyst_while-analyzing-atliqs-fy202021-data-i-activity-7429713785151569920-CCcd?utm_source=share&utm_medium=member_android&rcm=ACoAAF7Gul0Bt1wdXJCu8YwddPMtFXpF9VbCz4w)
 
 
 ---
